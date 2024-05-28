@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+<h2> Hello</h2>
 
-<!--
-**yasiinhx/yasiinhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=yasiinhx&color=red)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" width="50">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1117577068201398412)](https://discord.com/users/1117577068201398412)
+      <hr>
+<div align="center" width="50">
+<p> <img src="https://cdn.discordapp.com/attachments/884880893079068742/1152903004756914177/IMG_8150.jpg?ex=6513f998&is=6512a818&hm=8b90bb53f81f888791cb47c2840946a0a9ede1aafa9ca3825c56ec57bd2769f9&"/> </p>
+     <hr>
+
+<div align="center" width="50">
